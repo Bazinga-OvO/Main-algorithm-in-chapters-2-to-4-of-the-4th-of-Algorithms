@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\td\Algorithm\Test\scr\main.cpp(1206,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\td\Algorithm\Test\scr\main.cpp(1216,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\td\Algorithm\Test\scr\main.cpp(1233,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\td\Algorithm\Test\scr\main.cpp(1273,20): warning C4018: “<”: 有符号/无符号不匹配
+  Test.vcxproj -> D:\td\Algorithm\Debug\Test.exe
